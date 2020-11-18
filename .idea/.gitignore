@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../:\Users\Dai-Chau\CLionProjects\CSCI1101_Assignment\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+/CSCI1101_Assignment.iml
+/misc.xml
+/modules.xml
+/vcs.xml
